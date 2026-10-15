@@ -1,0 +1,6 @@
+StudentPerformancePredictor demonstration artifact
+Version: 1.0
+Purpose: This sample text file is used only to demonstrate model-file registration and SHA-256 integrity verification.
+Inputs: study_hours, attendance, previous_score
+Output: predicted_score
+Note: This is not a trained or executable AI model.
